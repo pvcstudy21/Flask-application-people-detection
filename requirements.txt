@@ -1,0 +1,8 @@
+# Requirements file
+
+Flask                # Flask web framework
+Ultralytics          # Ultralytics library for YOLO models
+opencv-python        # OpenCV for computer vision tasks
+
+# To install all dependencies, use:
+# pip install -r requirements.txt
